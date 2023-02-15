@@ -1,0 +1,31 @@
+I:\GAME\GAME\obj\Debug\GAME.csprojAssemblyReference.cache
+I:\GAME\GAME\obj\Debug\GAME.Form1.resources
+I:\GAME\GAME\obj\Debug\GAME.Properties.Resources.resources
+I:\GAME\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+I:\GAME\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+I:\GAME\GAME\bin\Debug\GAME.exe.config
+I:\GAME\GAME\bin\Debug\GAME.exe
+I:\GAME\GAME\bin\Debug\GAME.pdb
+I:\GAME\GAME\obj\Debug\GAME.exe
+I:\GAME\GAME\obj\Debug\GAME.pdb
+I:\Breakout game\GAME\obj\Debug\GAME.csprojAssemblyReference.cache
+I:\Breakout game\GAME\obj\Debug\GAME.Properties.Resources.resources
+I:\Breakout game\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+I:\Breakout game\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+I:\Breakout game\GAME\obj\Debug\GAME.exe
+I:\Breakout game\GAME\obj\Debug\GAME.pdb
+I:\Breakout game\GAME\bin\Debug\GAME.exe.config
+I:\Breakout game\GAME\bin\Debug\GAME.exe
+I:\Breakout game\GAME\bin\Debug\GAME.pdb
+I:\Breakout game\GAME\obj\Debug\Breakout_Game_MOO_ICT.Form1.resources
+I:\2 курс\C# лабы\Breakout game\GAME\bin\Debug\GAME.exe.config
+I:\2 курс\C# лабы\Breakout game\GAME\bin\Debug\GAME.exe
+I:\2 курс\C# лабы\Breakout game\GAME\bin\Debug\GAME.pdb
+I:\2 курс\C# лабы\Breakout game\GAME\obj\Debug\GAME.csproj.AssemblyReference.cache
+I:\2 курс\C# лабы\Breakout game\GAME\obj\Debug\GAME.csproj.SuggestedBindingRedirects.cache
+I:\2 курс\C# лабы\Breakout game\GAME\obj\Debug\Breakout_Game_MOO_ICT.Form1.resources
+I:\2 курс\C# лабы\Breakout game\GAME\obj\Debug\GAME.Properties.Resources.resources
+I:\2 курс\C# лабы\Breakout game\GAME\obj\Debug\GAME.csproj.GenerateResource.cache
+I:\2 курс\C# лабы\Breakout game\GAME\obj\Debug\GAME.csproj.CoreCompileInputs.cache
+I:\2 курс\C# лабы\Breakout game\GAME\obj\Debug\GAME.exe
+I:\2 курс\C# лабы\Breakout game\GAME\obj\Debug\GAME.pdb
